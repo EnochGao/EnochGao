@@ -1,4 +1,4 @@
-👋 Hi, 我是 EnochGao，专注angular
+👋 Hi, 我是 EnochGao，一名前端开发者，专注于angular，不止于angular
 
 <!---
 EnochGao/EnochGao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
